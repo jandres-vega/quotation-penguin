@@ -1,10 +1,10 @@
 package com.equotationpenguin.persistence.repository;
 
-import com.pinguinera.domain.dto.models.QuotationDTO;
-import com.pinguinera.domain.repository.QuotationDtoRepository;
-import com.pinguinera.persistence.crud.QuoationCrudRepository;
-import com.pinguinera.persistence.entity.Quotation;
-import com.pinguinera.persistence.mappers.QuotationMapper;
+import com.equotationpenguin.domain.dto.models.QuotationDTO;
+import com.equotationpenguin.domain.repository.QuotationDtoRepository;
+import com.equotationpenguin.persistence.crud.QuoationCrudRepository;
+import com.equotationpenguin.persistence.entity.Quotation;
+import com.equotationpenguin.persistence.mappers.QuotationMapper;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;

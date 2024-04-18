@@ -1,7 +1,7 @@
 package com.equotationpenguin.persistence.mappers;
 
-import com.pinguinera.persistence.converter.customerConverter.CustomerConverter;
-import com.pinguinera.persistence.converter.customerConverter.CustomerConverterImpl;
+import com.equotationpenguin.persistence.converter.customerConverter.CustomerConverter;
+import com.equotationpenguin.persistence.converter.customerConverter.CustomerConverterImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

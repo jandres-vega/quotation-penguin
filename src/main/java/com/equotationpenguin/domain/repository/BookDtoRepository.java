@@ -1,6 +1,6 @@
 package com.equotationpenguin.domain.repository;
 
-import com.pinguinera.domain.dto.models.BookDTO;
+import com.equotationpenguin.domain.dto.models.BookDTO;
 
 import java.util.List;
 

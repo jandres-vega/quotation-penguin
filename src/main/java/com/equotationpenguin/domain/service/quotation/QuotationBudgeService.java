@@ -1,11 +1,11 @@
 package com.equotationpenguin.domain.service.quotation;
 
-import com.pinguinera.domain.calculate.calculateBudget.CalculateBudgetQuotation;
-import com.pinguinera.domain.dto.request.QuotationBudgetDTO;
-import com.pinguinera.domain.dto.response.BookResponse;
-import com.pinguinera.domain.dto.response.QuotationBudgetResponse;
-import com.pinguinera.domain.service.book.BookService;
-import com.pinguinera.exceptions.ResourceNotFoundException;
+import com.equotationpenguin.domain.calculate.calculateBudget.CalculateBudgetQuotation;
+import com.equotationpenguin.domain.dto.request.QuotationBudgetDTO;
+import com.equotationpenguin.domain.dto.response.BookResponse;
+import com.equotationpenguin.domain.dto.response.QuotationBudgetResponse;
+import com.equotationpenguin.domain.service.book.BookService;
+import com.equotationpenguin.exceptions.ResourceNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 

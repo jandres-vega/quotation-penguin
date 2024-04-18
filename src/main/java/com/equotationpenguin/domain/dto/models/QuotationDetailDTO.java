@@ -1,8 +1,8 @@
 package com.equotationpenguin.domain.dto.models;
 
-import com.pinguinera.persistence.entity.Book;
-import com.pinguinera.persistence.entity.Quotation;
-import com.pinguinera.persistence.entity.QuotationPK;
+import com.equotationpenguin.persistence.entity.Book;
+import com.equotationpenguin.persistence.entity.Quotation;
+import com.equotationpenguin.persistence.entity.QuotationPK;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;

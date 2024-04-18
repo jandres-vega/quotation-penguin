@@ -1,10 +1,10 @@
 package com.equotationpenguin.persistence.repository;
 
-import com.pinguinera.domain.dto.models.BookDTO;
-import com.pinguinera.domain.repository.BookDtoRepository;
-import com.pinguinera.persistence.crud.BookCrudRepository;
-import com.pinguinera.persistence.entity.Book;
-import com.pinguinera.persistence.mappers.BookMapper;
+import com.equotationpenguin.domain.dto.models.BookDTO;
+import com.equotationpenguin.domain.repository.BookDtoRepository;
+import com.equotationpenguin.persistence.crud.BookCrudRepository;
+import com.equotationpenguin.persistence.entity.Book;
+import com.equotationpenguin.persistence.mappers.BookMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

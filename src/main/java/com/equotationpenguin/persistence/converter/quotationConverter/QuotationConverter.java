@@ -1,7 +1,7 @@
 package com.equotationpenguin.persistence.converter.quotationConverter;
 
-import com.pinguinera.domain.dto.models.QuotationDTO;
-import com.pinguinera.persistence.entity.Quotation;
+import com.equotationpenguin.domain.dto.models.QuotationDTO;
+import com.equotationpenguin.persistence.entity.Quotation;
 import org.springframework.stereotype.Component;
 
 @Component

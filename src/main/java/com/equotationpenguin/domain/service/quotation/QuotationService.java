@@ -1,13 +1,13 @@
 package com.equotationpenguin.domain.service.quotation;
 
-import com.pinguinera.domain.calculate.calculateQuotation.RetailQuotationCalculator;
-import com.pinguinera.domain.calculate.calculateQuotation.WholesaleQuotationCalculator;
-import com.pinguinera.domain.dto.models.CustomerDTO;
-import com.pinguinera.domain.dto.request.QuotationRequestDTO;
-import com.pinguinera.domain.dto.response.BookResponse;
-import com.pinguinera.domain.dto.response.QuotationResponse;
-import com.pinguinera.domain.service.book.BookService;
-import com.pinguinera.persistence.repository.CustomerRepository;
+import com.equotationpenguin.domain.calculate.calculateQuotation.RetailQuotationCalculator;
+import com.equotationpenguin.domain.calculate.calculateQuotation.WholesaleQuotationCalculator;
+import com.equotationpenguin.domain.dto.models.CustomerDTO;
+import com.equotationpenguin.domain.dto.request.QuotationRequestDTO;
+import com.equotationpenguin.domain.dto.response.BookResponse;
+import com.equotationpenguin.domain.dto.response.QuotationResponse;
+import com.equotationpenguin.domain.service.book.BookService;
+import com.equotationpenguin.persistence.repository.CustomerRepository;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Service;

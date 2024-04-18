@@ -1,7 +1,7 @@
 package com.equotationpenguin.persistence.mappers;
 
-import com.pinguinera.persistence.converter.quotationConverter.QuotationConverter;
-import com.pinguinera.persistence.converter.quotationConverter.QuotationConverterImpl;
+import com.equotationpenguin.persistence.converter.quotationConverter.QuotationConverter;
+import com.equotationpenguin.persistence.converter.quotationConverter.QuotationConverterImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

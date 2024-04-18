@@ -1,5 +1,5 @@
 package com.equotationpenguin.domain.dto.models;
-import com.pinguinera.persistence.entity.Category;
+import com.equotationpenguin.persistence.entity.Category;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

@@ -1,8 +1,8 @@
 package com.equotationpenguin.web.controller;
 
 
-import com.pinguinera.domain.dto.models.CustomerDTO;
-import com.pinguinera.domain.service.customer.CustomerService;
+import com.equotationpenguin.domain.dto.models.CustomerDTO;
+import com.equotationpenguin.domain.service.customer.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

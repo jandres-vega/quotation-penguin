@@ -1,7 +1,7 @@
 package com.equotationpenguin.web.controller;
 
-import com.pinguinera.domain.dto.models.CategoryDTO;
-import com.pinguinera.domain.service.category.CategoryService;
+import com.equotationpenguin.domain.dto.models.CategoryDTO;
+import com.equotationpenguin.domain.service.category.CategoryService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

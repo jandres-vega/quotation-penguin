@@ -1,8 +1,8 @@
 package com.equotationpenguin.domain.calculate.calculateIncrementCopy;
 
-import com.pinguinera.domain.dto.models.BookDTO;
-import com.pinguinera.domain.dto.models.CategoryDTO;
-import com.pinguinera.domain.service.category.CategoryService;
+import com.equotationpenguin.domain.dto.models.BookDTO;
+import com.equotationpenguin.domain.dto.models.CategoryDTO;
+import com.equotationpenguin.domain.service.category.CategoryService;
 import org.springframework.stereotype.Component;
 
 import java.util.HashMap;

@@ -1,7 +1,7 @@
 package com.equotationpenguin.persistence.mappers;
 
-import com.pinguinera.persistence.converter.categoryConverter.CategoryConverter;
-import com.pinguinera.persistence.converter.categoryConverter.CategoryConverterImpl;
+import com.equotationpenguin.persistence.converter.categoryConverter.CategoryConverter;
+import com.equotationpenguin.persistence.converter.categoryConverter.CategoryConverterImpl;
 import org.springframework.stereotype.Component;
 
 @Component

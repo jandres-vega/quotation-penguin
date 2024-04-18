@@ -1,7 +1,7 @@
 package com.equotationpenguin.domain.service;
 
-import com.pinguinera.domain.dto.models.CustomerDTO;
-import com.pinguinera.persistence.repository.CustomerRepository;
+import com.equotationpenguin.domain.dto.models.CustomerDTO;
+import com.equotationpenguin.persistence.repository.CustomerRepository;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

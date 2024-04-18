@@ -1,7 +1,7 @@
 package com.equotationpenguin.persistence.converter.bookConverter;
 
-import com.pinguinera.domain.dto.models.BookDTO;
-import com.pinguinera.persistence.entity.Book;
+import com.equotationpenguin.domain.dto.models.BookDTO;
+import com.equotationpenguin.persistence.entity.Book;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

@@ -1,10 +1,10 @@
 package com.equotationpenguin.persistence.repository;
 
-import com.pinguinera.domain.dto.models.CategoryDTO;
-import com.pinguinera.domain.repository.CategoryDtoRepository;
-import com.pinguinera.persistence.crud.CategoryCrudRepository;
-import com.pinguinera.persistence.entity.Category;
-import com.pinguinera.persistence.mappers.CategoryMapper;
+import com.equotationpenguin.domain.dto.models.CategoryDTO;
+import com.equotationpenguin.domain.repository.CategoryDtoRepository;
+import com.equotationpenguin.persistence.crud.CategoryCrudRepository;
+import com.equotationpenguin.persistence.entity.Category;
+import com.equotationpenguin.persistence.mappers.CategoryMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

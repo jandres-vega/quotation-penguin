@@ -1,6 +1,6 @@
 package com.equotationpenguin.persistence.crud;
 
-import com.pinguinera.persistence.entity.Category;
+import com.equotationpenguin.persistence.entity.Category;
 import org.springframework.data.repository.CrudRepository;
 
 public interface CategoryCrudRepository extends CrudRepository<Category, Integer> {

@@ -1,9 +1,9 @@
 package com.equotationpenguin.domain.calculate.calculateBudget;
 
-import com.pinguinera.domain.calculate.calculateDiscountSeniority.CalculateDiscountSeniority;
-import com.pinguinera.domain.calculate.filterBooks.FilterBooks;
-import com.pinguinera.domain.dto.response.BookResponse;
-import com.pinguinera.domain.dto.response.QuotationBudgetResponse;
+import com.equotationpenguin.domain.calculate.calculateDiscountSeniority.CalculateDiscountSeniority;
+import com.equotationpenguin.domain.calculate.filterBooks.FilterBooks;
+import com.equotationpenguin.domain.dto.response.BookResponse;
+import com.equotationpenguin.domain.dto.response.QuotationBudgetResponse;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

@@ -1,8 +1,8 @@
 package com.equotationpenguin.domain.calculate.calculateQuotation;
 
-import com.pinguinera.domain.calculate.calculateDiscountSeniority.CalculateDiscountSeniority;
-import com.pinguinera.domain.dto.response.BookResponse;
-import com.pinguinera.domain.dto.response.QuotationResponse;
+import com.equotationpenguin.domain.calculate.calculateDiscountSeniority.CalculateDiscountSeniority;
+import com.equotationpenguin.domain.dto.response.BookResponse;
+import com.equotationpenguin.domain.dto.response.QuotationResponse;
 import org.springframework.stereotype.Component;
 
 import java.time.LocalDate;

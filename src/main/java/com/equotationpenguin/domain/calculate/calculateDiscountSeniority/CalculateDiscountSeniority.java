@@ -1,6 +1,6 @@
 package com.equotationpenguin.domain.calculate.calculateDiscountSeniority;
-import org.springframework.stereotype.Component;
 
+import org.springframework.stereotype.Component;
 import java.time.LocalDate;
 import java.time.Period;
 

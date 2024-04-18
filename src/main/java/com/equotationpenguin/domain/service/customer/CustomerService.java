@@ -1,8 +1,8 @@
 package com.equotationpenguin.domain.service.customer;
 
-import com.pinguinera.domain.dto.models.CustomerDTO;
-import com.pinguinera.exceptions.ResourceNotFoundException;
-import com.pinguinera.persistence.repository.CustomerRepository;
+import com.equotationpenguin.domain.dto.models.CustomerDTO;
+import com.equotationpenguin.exceptions.ResourceNotFoundException;
+import com.equotationpenguin.persistence.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.crypto.password.PasswordEncoder;

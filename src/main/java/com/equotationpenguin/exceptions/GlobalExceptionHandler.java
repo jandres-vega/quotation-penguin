@@ -1,6 +1,6 @@
 package com.equotationpenguin.exceptions;
 
-import com.pinguinera.payload.ApiResponse;
+import com.equotationpenguin.payload.ApiResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.AuthenticationException;

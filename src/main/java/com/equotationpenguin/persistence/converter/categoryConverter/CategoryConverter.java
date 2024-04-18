@@ -1,7 +1,7 @@
 package com.equotationpenguin.persistence.converter.categoryConverter;
 
-import com.pinguinera.domain.dto.models.CategoryDTO;
-import com.pinguinera.persistence.entity.Category;
+import com.equotationpenguin.domain.dto.models.CategoryDTO;
+import com.equotationpenguin.persistence.entity.Category;
 
 import java.util.List;
 

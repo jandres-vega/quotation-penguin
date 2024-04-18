@@ -1,10 +1,10 @@
 package com.equotationpenguin.persistence.repository;
 
-import com.pinguinera.domain.dto.models.CustomerDTO;
-import com.pinguinera.domain.repository.CustomerDtoRepository;
-import com.pinguinera.persistence.crud.CustomerCrudRepository;
-import com.pinguinera.persistence.entity.Customer;
-import com.pinguinera.persistence.mappers.CustomerMapper;
+import com.equotationpenguin.domain.dto.models.CustomerDTO;
+import com.equotationpenguin.domain.repository.CustomerDtoRepository;
+import com.equotationpenguin.persistence.crud.CustomerCrudRepository;
+import com.equotationpenguin.persistence.entity.Customer;
+import com.equotationpenguin.persistence.mappers.CustomerMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

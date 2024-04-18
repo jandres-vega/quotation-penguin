@@ -1,11 +1,11 @@
 package com.equotationpenguin.domain.service.book;
 
-import com.pinguinera.domain.calculate.calculateIncrementCopy.PriceService;
-import com.pinguinera.domain.dto.models.BookDTO;
-import com.pinguinera.domain.dto.request.CopyRequest;
-import com.pinguinera.domain.dto.response.BookResponse;
-import com.pinguinera.exceptions.ResourceNotFoundException;
-import com.pinguinera.persistence.repository.BookRepository;
+import com.equotationpenguin.domain.calculate.calculateIncrementCopy.PriceService;
+import com.equotationpenguin.domain.dto.models.BookDTO;
+import com.equotationpenguin.domain.dto.request.CopyRequest;
+import com.equotationpenguin.domain.dto.response.BookResponse;
+import com.equotationpenguin.exceptions.ResourceNotFoundException;
+import com.equotationpenguin.persistence.repository.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;

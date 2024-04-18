@@ -1,7 +1,7 @@
 package com.equotationpenguin.web.controller;
 
-import com.pinguinera.domain.dto.request.QuotationRequestDTO;
-import com.pinguinera.domain.service.quotation.QuotationService;
+import com.equotationpenguin.domain.dto.request.QuotationRequestDTO;
+import com.equotationpenguin.domain.service.quotation.QuotationService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

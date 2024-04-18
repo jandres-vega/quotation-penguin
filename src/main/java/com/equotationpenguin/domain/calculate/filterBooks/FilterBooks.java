@@ -1,6 +1,6 @@
 package com.equotationpenguin.domain.calculate.filterBooks;
 
-import com.pinguinera.domain.dto.response.BookResponse;
+import com.equotationpenguin.domain.dto.response.BookResponse;
 import org.springframework.stereotype.Service;
 
 import java.util.Comparator;

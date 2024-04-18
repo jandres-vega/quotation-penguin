@@ -1,7 +1,7 @@
 package com.equotationpenguin.web.controller;
 
-import com.pinguinera.domain.dto.request.QuotationBudgetDTO;
-import com.pinguinera.domain.service.quotation.QuotationBudgeService;
+import com.equotationpenguin.domain.dto.request.QuotationBudgetDTO;
+import com.equotationpenguin.domain.service.quotation.QuotationBudgeService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

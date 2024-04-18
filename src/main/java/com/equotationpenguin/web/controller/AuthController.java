@@ -1,7 +1,7 @@
 package com.equotationpenguin.web.controller;
 
-import com.pinguinera.domain.dto.request.LoginDto;
-import com.pinguinera.web.config.JwtUtil;
+import com.equotationpenguin.domain.dto.request.LoginDto;
+import com.equotationpenguin.web.config.JwtUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseEntity;

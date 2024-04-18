@@ -1,7 +1,7 @@
 package com.equotationpenguin.web.controller;
 
-import com.pinguinera.domain.dto.models.BookDTO;
-import com.pinguinera.domain.service.book.BookService;
+import com.equotationpenguin.domain.dto.models.BookDTO;
+import com.equotationpenguin.domain.service.book.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

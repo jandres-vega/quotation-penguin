@@ -1,8 +1,8 @@
 package com.equotationpenguin.domain.service.category;
 
-import com.pinguinera.domain.dto.models.CategoryDTO;
-import com.pinguinera.exceptions.ResourceNotFoundException;
-import com.pinguinera.persistence.repository.CategoryRepository;
+import com.equotationpenguin.domain.dto.models.CategoryDTO;
+import com.equotationpenguin.exceptions.ResourceNotFoundException;
+import com.equotationpenguin.persistence.repository.CategoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;

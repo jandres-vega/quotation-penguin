@@ -1,6 +1,6 @@
 package com.equotationpenguin.domain.dto.response;
 
-import com.pinguinera.persistence.entity.Category;
+import com.equotationpenguin.persistence.entity.Category;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
