@@ -14,7 +14,6 @@ public class CalculateDiscountSeniority {
     }
     public float calculateDiscountV2(LocalDate customerCreatedDate, float totalPrice) {
         int customerSeniority = calculateSeniority(customerCreatedDate);
-        System.out.println(customerSeniority);
         float discountRate = getDiscountRate(customerSeniority);
         return discountRate * totalPrice;
     }

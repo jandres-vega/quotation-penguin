@@ -22,10 +22,11 @@ public class CustomerDTO {
 
     private LocalDate localDate;
 
-    public CustomerDTO(Integer idCustomer, String name, String email, String password) {
+    public CustomerDTO(Integer idCustomer, String name, String email, String password, LocalDate localDate) {
         this.idCustomer = idCustomer;
         this.name = name;
         this.email = email;
         this.password = password;
+        this.localDate = localDate;
     }
 }

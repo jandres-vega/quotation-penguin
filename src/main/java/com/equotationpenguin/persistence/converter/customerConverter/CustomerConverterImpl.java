@@ -22,7 +22,8 @@ public class CustomerConverterImpl implements CustomerConverter {
                 customer.getIdCustomer(),
                 customer.getName(),
                 customer.getEmail(),
-                customer.getPassword()
+                customer.getPassword(),
+                customer.getCreatedDate()
         );
     }
 }

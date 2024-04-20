@@ -33,8 +33,7 @@ public class QuotationService {
 
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         CustomerDTO customer = customerRepository.findCustomerByEmail((String) authentication.getPrincipal());
-
-
+        System.out.println(customer.getLocalDate());
         List<BookResponse> bookResponseList = bookService.findBooksOfQuotation(quotationRequestDTO.getCopies());
         if(!isWholesalePurchase(bookResponseList)){
             return retailQuotationCalculator.calculateTotalPrice(bookResponseList, customer.getLocalDate());
